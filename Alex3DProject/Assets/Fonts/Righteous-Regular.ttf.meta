@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a773001d6035808498f7191aa177be80
+timeCreated: 1512941516
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Righteous
+  fontNames:
+  - Righteous
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
