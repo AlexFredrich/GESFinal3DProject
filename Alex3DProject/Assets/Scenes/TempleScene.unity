@@ -3728,7 +3728,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 127
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!95 &536431426
 Animator:
@@ -4112,7 +4112,7 @@ MonoBehaviour:
   m_Script: {fileID: 16342205, guid: 0472bdc8d6d15384d98f22ee34302f9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _entityType: 0
+  _entityType: 4
 --- !u!4 &536431433
 Transform:
   m_ObjectHideFlags: 0
@@ -8221,7 +8221,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-1531830
+  m_Name: pb_Mesh20140
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -8606,7 +8606,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh41210
+  m_Name: pb_Mesh20038
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -12573,7 +12573,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.8455882, g: 0.5876238, b: 0.26113755, a: 1}
-  m_Intensity: 0.9
+  m_Intensity: 2.14
   m_Range: 12.59
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -13359,8 +13359,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1147254012}
   m_LocalRotation: {x: -0.45370838, y: 0.07908827, z: 0.039826993, w: 0.8867399}
-  m_LocalPosition: {x: 22.978, y: -32.855, z: -35.343}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 22.823, y: -32.855, z: -35.343}
+  m_LocalScale: {x: 1.6289996, y: 1, z: 1.5436243}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 24
@@ -13391,7 +13391,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.8455882, g: 0.5876238, b: 0.26113755, a: 1}
-  m_Intensity: 0.82
+  m_Intensity: 2.23
   m_Range: 12.59
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -13551,7 +13551,7 @@ GameObject:
   - component: {fileID: 1379568515}
   m_Layer: 0
   m_Name: FPSController
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14412,7 +14412,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.8455882, g: 0.5876238, b: 0.26113755, a: 1}
-  m_Intensity: 0.63
+  m_Intensity: 2
   m_Range: 12.59
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -14875,7 +14875,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.8455882, g: 0.5876238, b: 0.26113755, a: 1}
-  m_Intensity: 0.91
+  m_Intensity: 1.71
   m_Range: 12.59
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -16592,7 +16592,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.8455882, g: 0.5876238, b: 0.26113755, a: 1}
-  m_Intensity: 0.61
+  m_Intensity: 2.16
   m_Range: 12.59
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -16769,7 +16769,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.8455882, g: 0.5876238, b: 0.26113755, a: 1}
-  m_Intensity: 1.01
+  m_Intensity: 2.35
   m_Range: 12.59
   m_SpotAngle: 30
   m_CookieSize: 10
